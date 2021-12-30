@@ -20,6 +20,10 @@
 
 `git pull https://github.com/simone-lungarella/Expenser.git`
 
+<p>Navigate to the project folder and install npm packages</p>
+
+`npm install`
+
 <p>Start on localhost:3000</p>
 
 `npm start`
