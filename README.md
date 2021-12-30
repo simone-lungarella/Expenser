@@ -7,3 +7,20 @@
 </p>
 
 <p> This application, built with React.js, lets the users organize expenses and offer a graphic visualization of every expense had in years. Make possible to add new expenses specifying the date, the tile, and the amount it cost and offer a way to search for certain expenses and list them choosing a reference year.</p>
+
+<p>Have a look at the deployed app reaching the <a href="https://simone-lungarella.github.io/Expenser/">github page</a> </p>
+
+
+<h2>Start the app in your machine</h2>
+
+<p>Install Node.js</p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" href="https://nodejs.org/it/" />
+
+<p>Pull the repository</p>
+
+`git pull https://github.com/simone-lungarella/Expenser.git`
+
+<p>Start on localhost:3000</p>
+
+`npm start`
+
