@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expenser/static/css/main.8380aeef.css",
+    "main.js": "/Expenser/static/js/main.f3dd7677.js",
+    "index.html": "/Expenser/index.html",
+    "main.8380aeef.css.map": "/Expenser/static/css/main.8380aeef.css.map",
+    "main.f3dd7677.js.map": "/Expenser/static/js/main.f3dd7677.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8380aeef.css",
+    "static/js/main.f3dd7677.js"
+  ]
+}
